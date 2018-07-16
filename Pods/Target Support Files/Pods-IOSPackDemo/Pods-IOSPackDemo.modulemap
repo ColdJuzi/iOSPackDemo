@@ -1,0 +1,6 @@
+framework module Pods_IOSPackDemo {
+  umbrella header "Pods-IOSPackDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
